@@ -4,3 +4,6 @@ console.log(a+b)
 
 let myName = "rahima"
 console.log(myName)
+
+let c="string"
+console.log(c)
